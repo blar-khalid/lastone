@@ -1,0 +1,38 @@
+* {
+    /* border: 1px solid black; */
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Poiret One', cursive;
+    }
+    
+    .wrapper{
+        margin: auto;
+        width: 50%;
+        background-color:rgba(19, 56, 61, 0.082);
+    }
+    #add{
+        margin: 4% 0% 1% 2%;
+        width: 95%;
+        height: 36px;
+        border:1px solid #DADADA;
+        box-shadow:0 0 10px;
+    }
+    .appended{
+        width: 95%;
+        margin: auto;
+        background-color: white;
+        color: black;
+        height: 35px;
+        border:1px solid #DADADA;
+        box-shadow:0 0 10px;
+        display: flex;
+        flex-direction: row;
+    }
+    
+    .check{
+    margin: 2px 3px 10px 3px    
+    }
+    
+ 
+   
